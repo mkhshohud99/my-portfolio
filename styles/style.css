@@ -213,11 +213,12 @@ nav li {
     text-align: left;
 }
 
-.contact input[type="text"],input[type="email"]textarea {
+.message input[type="text"],input[type="email"]textarea {
     margin-bottom: 24px;
     border: o;
     width: 100%;
     padding:18px 30px;
+    height: auto;
 
 }
 

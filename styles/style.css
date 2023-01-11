@@ -29,7 +29,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    margin: 00px 200px;
 }
 
 .nav-title {
@@ -114,7 +114,7 @@ nav li {
 }
 
 .container {
-    margin: 130px 150px;
+    margin: 100px 150px;
     text-align: center;
 }
 
@@ -177,6 +177,7 @@ nav li {
 .exp-title {
     font-weight: 700;
     font-size: 25px;
+    margin: 10px 0px;
 }
 
 .edu-sub-title,
@@ -184,6 +185,7 @@ nav li {
     font-weight: 600;
     font-size: 20px;
     color: #757575;
+    margin: 5px 0px;
 }
 
 .edu-drescription,
@@ -212,16 +214,16 @@ nav li {
 .contact {
     text-align: left;
 }
-
-.message input[type="text"],input[type="email"]textarea {
+input,textarea {
     margin-bottom: 24px;
     border: o;
     width: 100%;
     padding:18px 30px;
     height: auto;
+    border-radius: 5px;
 
 }
 
 input {
-    height: 64px;
+    height: 50px;
 }
